@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Singh Family Website</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Welcome to the Singh Family Website</h1>
+    <nav>
+      <a href="#">Home</a>
+      <a href="#">Gallery</a>
+      <a href="#">Events</a>
+      <a href="#">Contact</a>
+    </nav>
+  </header>
+
+  <main>
+    <section class="intro">
+      <h2>About Our Family</h2>
+      <p>We are the Singh family – sharing memories, love, and laughter. Stay connected with us through this website!</p>
+    </section>
+
+    <section class="gallery">
+      <h2>Family Gallery</h2>
+      <p>Coming soon...</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 Singh Family. All rights reserved.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
